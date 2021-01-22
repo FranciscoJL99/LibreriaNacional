@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Login successful and search library" skipped="0" tests="2" time="40.02" timestamp="2021-01-22 10:50:11"><testcase name="Successful login"><failure message="The homepage of the page is not as expected - &#10;Expected: &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">The homepage of the page is not as expected - 
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>The homepage of the page is not as expected - 
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+com.nacional.libreria.stepdefinitions.LoginSuccessfulStepDefinition.heMustAccessTheHomepage(LoginSuccessfulStepDefinition.java:55)&#13;
+✽.he must access the homepage(src/test/resources/com.nacional.libreria.features/login_libreria_nacional.feature:14)&#13;
+</system-err></testcase></testsuite>
